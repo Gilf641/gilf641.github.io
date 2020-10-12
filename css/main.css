@@ -41,3 +41,18 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+div.ex1 {
+  overflow: scroll;
+}
+
+div.ex2 {
+  overflow: hidden;
+}
+
+div.ex3 {
+  overflow: auto;
+}
+
+div.ex4 {
+  overflow: visible;
+}
